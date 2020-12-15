@@ -2,7 +2,7 @@
 
 ****
 
-##### This is an simple node.js program that you can easy to push your project to GitHub or publish it to NPM. Just follow the instructions on below.🤣
+##### This is a simple node.js program that you can easy to push your project to GitHub or publish it to NPM. Just follow the instructions on below.🤣
 
 ##### 这是一个简单的 node.js 程序，你可以很容易地推你的项目到 GitHub 或发布它到 NPM。只需按照下面的说明操作即可。🤣
 
