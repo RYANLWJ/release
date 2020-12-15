@@ -12,7 +12,7 @@
 
 #### config.json
 
-```json
+```js
 {
   "PROJECT_ROOT_PATH":"../", // relative path to your project root path. 项目根路径的相对路径
   "PROJECT_PACKAGE_JSON":"../package.json",// relative path to your project package.json file. 项目包文件的相对路径
