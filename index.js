@@ -85,8 +85,8 @@ const push = async (nextVersion) => {
       default: "", // 默认值
     },
   ]);
-  await run(`cd ../ && git commit -m "v${nextVersion}${message && `: ${message}`}"`);
-  await run("cd ../ && git push");
+  await run(`cd ${PROJECT_ROOT_PATH}  && git commit -m "v${nextVersion}${message && `: ${message}`}"`);
+  await run(`cd ${PROJECT_ROOT_PATH} && git push`);
   return null;
 };
 
